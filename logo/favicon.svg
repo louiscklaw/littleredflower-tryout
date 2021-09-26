@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 8.4666667 8.4666667"
+   width="192"
+   height="192"
+   viewBox="0 0 50.799999 50.799999"
    version="1.1"
    id="svg897"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="favicon-32x32.svg"
+   sodipodi:docname="favicon.svg"
    inkscape:export-filename="/home/logic/_workspace/littleredflower-tryout/logo/favicon.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28.066667"
-     inkscape:cx="14.999999"
-     inkscape:cy="14.99999"
+     inkscape:zoom="3.1009579"
+     inkscape:cx="94.830285"
+     inkscape:cy="114.25532"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,10 +56,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-288.53335)">
+     transform="translate(0,-246.20002)">
     <g
        id="g914"
-       transform="matrix(0.15396517,0,0,0.15988691,-5.4874994,287.68734)">
+       transform="matrix(0.73903284,0,0,0.76745717,-21.259999,247.21919)">
       <g
          transform="matrix(0.63646749,0,0,0.63646749,60.272466,-40.152501)"
          id="g4727">
