@@ -65,7 +65,7 @@ theme = "hugo-serif-theme"
 
   [[menu.main]]
       name = "立即報價"
-      url = "/quote_now/"
+      url = "https://docs.google.com/forms/d/1a-MeljWEN8rvkv_SCm2g9HzD6xCDg0DKh_ED7ZfAnWA/edit"
       weight = 7
 
   # Footer Menu
